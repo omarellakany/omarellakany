@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omarellakany
 - 👀 I’m interested in mobile and web development as well as AI.
-- 🌱 I’m currently learning NestJs and MongoDB.
+- 🌱 I’m currently building apps.
 - 💞️ I’m looking to collaborate on new projects or recently started ones.
 - 📫 How to reach me omar@pobox.com
 
